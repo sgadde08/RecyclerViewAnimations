@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".HomeActivity" >
+
+    <item android:id="@+id/action_fade"
+        android:title="@string/action_fade"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_swing_bottom"
+        android:title="@string/action_swing_bottom"
+        android:orderInCategory="101"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_swing_right"
+        android:title="@string/action_swing_right"
+        android:orderInCategory="102"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_scale"
+        android:title="@string/action_scale"
+        android:orderInCategory="103"
+        android:showAsAction="never" />
+</menu>

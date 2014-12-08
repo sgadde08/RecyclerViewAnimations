@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RecylerViewAnimations</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_fade">Fade</string>
+    <string name="action_swing_bottom">Swing from Bottom</string>
+    <string name="action_swing_right">Swing from Right</string>
+    <string name="action_scale">Scale</string>
+</resources>
